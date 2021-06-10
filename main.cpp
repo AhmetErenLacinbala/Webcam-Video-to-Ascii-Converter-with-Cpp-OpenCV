@@ -1,4 +1,5 @@
-//#include <opencv\cv.h>
+//Webcam video to ascii project.
+//Made by Ahmet Eren Laçinbala in 10.06.2021
 
 #include <opencv2/core/core.hpp>
 #include <opencv2\highgui\highgui.hpp>
